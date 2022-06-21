@@ -11,3 +11,13 @@ require('data-forge');
 require('data-forge-fs');
 
 run in terminal / hyper terminal / or in VScode : node index.js
+
+## Exercise 2 - Use React and D3 js to draw linechart
+
+Npx create-react-app react-d3-linechart
+
+Npm install d3
+
+import {useEffect, useState, useRef} from 'react';
+
+import * as d3 from 'd3';
