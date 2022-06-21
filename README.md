@@ -21,3 +21,5 @@ Npm install d3
 import {useEffect, useState, useRef} from 'react';
 
 import * as d3 from 'd3';
+
+npm run start
