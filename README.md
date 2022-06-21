@@ -23,3 +23,5 @@ import {useEffect, useState, useRef} from 'react';
 import * as d3 from 'd3';
 
 npm run start
+
+![result image](https://github.com/sysphcd/dataAnalysis_with_Javascripts/blob/main/Reactjs_d3_linechart.png)
